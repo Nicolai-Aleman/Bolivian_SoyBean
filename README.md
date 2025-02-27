@@ -17,4 +17,4 @@ Explore the notebook to see the code, results and complete visualizations.
 
 ## Contact
 
-For questions or collaboration, contact me at [nicolai.aleman@outlook.com].
+For questions or collaboration, contact me at nicolai.aleman@outlook.com.
